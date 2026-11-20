@@ -81,3 +81,5 @@ CETV-4
 港澳台,#genre#
 翡翠台
 无线新闻台
+TVB Plus
+中天新闻
