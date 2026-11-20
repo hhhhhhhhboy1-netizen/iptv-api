@@ -80,6 +80,50 @@ CETV-4
 
 港澳台,#genre#
 翡翠台
+翡翠台4K
 无线新闻台
 TVB Plus
+TVB1
+TVB J1
+J2
+明珠台
+TVBS新闻
+凤凰中文
+凤凰香港
+凤凰资讯
+香港卫视
+NOW新闻台
+Now爆谷台
+Now财经台
+ViuTV
+ViuTV6
+港台电视 31
+港台电视 32
+港台电视 36
+myTVSUPER
+myTV SUPER 18台
+myTV SUPER直播体育1台
+澳视澳门
+澳视卫星
+澳门综艺
+澳门莲花
 中天新闻
+三立新闻
+中视
+中视新闻
+东森综合
+民视综艺
+Taiwan+
+TAIWANPLUS
+TAKA
+
+国际台,#genre#
+BS11イ
+BS11イレブン
+BS日テレ
+TBS
+CGN中文台
+CGTN财经
+ELEVEN体育1台
+KBS
+tvN
